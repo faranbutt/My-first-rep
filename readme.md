@@ -1,31 +1,24 @@
-# This is a large heading
-## This is smaller heading
+# Faran Taimoor Butt
+### Geography
+I live in the city of Rawalpindi ,in the province of Punjab, in the Islamic republic of Pakistan
 
-And as **imagination** bodies forth,
-The forms of things *unknown* the poet's pen
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**
-- This is 
-- an unordered
-- list
-
-1. This is
-2. an ordered
-3. list
-
-Here is `some code` in the middle of a sentence.
-
+### Reading 
+Three of my favourite books are
 ```
-This is
-a block
-of code
+- *Bees din men paisa double* by Babo Rao Ganpat Rao Apte
+- *Gori Ka Gora* by Supari babo
+- *Welcome to the Monkey House* by Kurt Vonnegut
 ```
 
+###Food 
+Last night I dreamt about eating in these resturants:
+
+1. Linger in Denever
+2. Azura in Jeusalem
+3. Butt Karahi in Main Lahore City
+
+###Contact 
+You can contact me by sending a message through your *HEART*
 ```
-my name is faran butt
-
+I'm Wating
 ```
-
-Here is how you make [a link](https://www.wikipedia.org/).
-
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
