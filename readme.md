@@ -10,14 +10,14 @@ Three of my favourite books are
 - *Welcome to the Monkey House* by Kurt Vonnegut
 ```
 
-###Food 
+### Food 
 Last night I dreamt about eating in these resturants:
 
 1. Linger in Denever
 2. Azura in Jeusalem
 3. Butt Karahi in Main Lahore City
 
-###Contact 
+### Contact 
 You can contact me by sending a message through your *HEART*
 ```
 I'm Wating
